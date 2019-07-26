@@ -26,8 +26,6 @@ https://github.com/forkingdog/FDFullscreenPopGesture
 ##### 空列表占位图
 https://github.com/dzenbot/DZNEmptyDataSet
 
-##### json转modelAPP
-https://github.com/Ahmed-Ali/JSONExport
 
 #### 必不可少的tabbar
 https://github.com/ChenYilong/CYLTabBarController
@@ -45,6 +43,11 @@ https://github.com/marcuswestin/WebViewJavascriptBridge
 
 ##### 弹幕功能
 https://github.com/unash/BarrageRenderer
+
+## 可视化工具
+
+#### json转modelAPP
+https://github.com/Ahmed-Ali/JSONExport
 
 ## 底层工具
 
