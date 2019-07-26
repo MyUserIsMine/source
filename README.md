@@ -43,6 +43,9 @@ https://github.com/ko1o/PYSearch
 ##### 与web的交互
 https://github.com/marcuswestin/WebViewJavascriptBridge
 
+##### 弹幕功能
+https://github.com/unash/BarrageRenderer
+
 ## 底层工具
 
 #### 自动内存泄漏检测工具
