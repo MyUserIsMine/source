@@ -17,6 +17,9 @@ https://github.com/ibireme
 ##### 音视频播放
 https://github.com/pili-engineering/PLPlayerKit
 
+#### 一个支持多选、选原图和视频的图片选择器
+https://github.com/banchichen/TZImagePickerController
+
 https://github.com/renzifeng/ZFPlayer
 ##### 全局返回手势
 https://github.com/forkingdog/FDFullscreenPopGesture
@@ -37,6 +40,8 @@ https://github.com/pujiaxin33/JXCategoryView
 ##### 多种搜索样式
 https://github.com/ko1o/PYSearch
 
+##### 与web的交互
+https://github.com/marcuswestin/WebViewJavascriptBridge
 
 ## 底层工具
 
@@ -51,6 +56,9 @@ https://github.com/CocoaLumberjack/CocoaLumberjack
 
 #### 崩溃收集(U盟等也可以)
 https://github.com/plausiblelabs/plcrashreporter
+
+##### 崩溃拦截方案，已停止维护
+https://github.com/chenfanfang/AvoidCrash
 
 ##### 网络请求框架，适合于集约型网络设计
 https://github.com/knightsj/SJNetwork
